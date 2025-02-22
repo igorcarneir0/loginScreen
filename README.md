@@ -4,7 +4,8 @@ This repository presents a **modern login and signup page**, developed with **HT
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/91f0de95-df48-4c98-8c53-7c899fa40fca)
+![image](![image](https://github.com/user-attachments/assets/6c9f85b7-b0cb-42b4-b5de-3842313df502)
+)
 
 
 ## 🛠️ Technologies Used
